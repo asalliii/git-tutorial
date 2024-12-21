@@ -1,6 +1,6 @@
 my new file.
-2
+22
 
-responsive
+responsivee
 
 i made responsive too!
